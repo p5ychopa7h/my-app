@@ -41,7 +41,6 @@ class EmployeesAddForm extends Component {
                 </form>
             </div>
         )
-
     }
 }
 
